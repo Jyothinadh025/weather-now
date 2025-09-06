@@ -1,3 +1,11 @@
+# Weather Now
+
+Weather Now is a modern React web application for checking live weather in any city worldwide.
+
+## Live Demo
+
+[View Weather Now Live](https://cmpjq7-5173.csb.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
